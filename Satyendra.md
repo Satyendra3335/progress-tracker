@@ -1,6 +1,6 @@
 ## Timeline
 
-> **June, 2022**
+> **July, 2022**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
@@ -13,7 +13,7 @@
 |7|||
 |8|||
 |9|||
-|10|||
+|10|learning JS and doing project of MS||
 |11|||
 |12|||
 |13|||

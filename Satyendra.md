@@ -14,7 +14,7 @@
 |8|||
 |9|||
 |10|learning JS and doing project of MS||
-|11|||
+|11|learing JS ||
 |12|||
 |13|||
 |14|||

@@ -15,7 +15,7 @@
 |9|||
 |10|learning JS and doing project of MS||
 |11|learing JS ||
-|12|||
+|12|learning  JS from free code camp and projects||
 |13|||
 |14|||
 |15|||

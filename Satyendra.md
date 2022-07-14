@@ -17,7 +17,7 @@
 |11|learing JS ||
 |12|learning  JS from free code camp and projects||
 |13|||
-|14|||
+|14|learning JS from free code camp  and doing projects||
 |15|||
 |16|||
 |17|||

@@ -1,6 +1,6 @@
 ## Timeline
 
-> **August, 2022**
+> **JULY, 2022**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
